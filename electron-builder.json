@@ -1,0 +1,7 @@
+
+{
+  "productName": "YesPlayMusicOSD",
+  "linux": {
+    "target": ["AppImage", "pacman"]
+  }
+}
