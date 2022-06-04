@@ -127,22 +127,6 @@ module.exports = {
               arch: ['x64'],
             },
             {
-              target: 'tar.gz',
-              arch: ['x64', 'arm64'],
-            },
-            {
-              target: 'deb',
-              arch: ['x64', 'armv7l', 'arm64'],
-            },
-            {
-              target: 'rpm',
-              arch: ['x64'],
-            },
-            {
-              target: 'snap',
-              arch: ['x64'],
-            },
-            {
               target: 'pacman',
               arch: ['x64'],
             },
