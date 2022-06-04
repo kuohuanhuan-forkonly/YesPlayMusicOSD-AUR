@@ -127,8 +127,5 @@
     "hooks": {
       "pre-commit": "npm run prettier"
     }
-  },
-  "build": {
-    "target": ["AppImage", "pacman"]
   }
 }
