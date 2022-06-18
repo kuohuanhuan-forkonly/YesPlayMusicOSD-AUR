@@ -11,8 +11,7 @@ AUR: <https://aur.archlinux.org/packages/yesplaymusicosd-git>
 
 ## YesPlayMusic
 
-原版：<https://github.com/qier222/YesPlayMusic>
-
+原版：<https://github.com/qier222/YesPlayMusic>  
 OSD 版：<https://github.com/shih-liang/YesPlayMusicOSD>
 
 ## 授權
